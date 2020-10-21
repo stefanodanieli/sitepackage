@@ -2,7 +2,7 @@
     "name": "politecnico-di-milano/sitepackage",
     "type": "typo3-cms-extension",
     "description": "",
-    "homepage": "https://www.polimi.it",
+     "version": "1.0.0",
     "license": ["GPL-2.0-or-later"],
     "keywords": ["TYPO3 CMS"],
     "require": {
